@@ -1,0 +1,310 @@
+{
+  "hptls": [
+    {
+      "name": "Gandhi General Hospital",
+      "area": " Secunderabad",
+      "location": {
+        "lat": 17.423635,
+        "lng": 78.503822
+      },
+      "obeds": {
+        "TBC": 1890,
+        "ICU": 125,
+        "CPAP": 438,
+        "wards": 101,
+        "tnp": 664
+      },
+      "abeds": 1226,
+      "phone": 989245897,
+      "type": "government"
+    },
+    {
+      "name": "Government Chest and General Hospital",
+      "area": "  Hyderabad",
+      "location": {
+        "lat": 17.445236,
+        "lng": 78.434954
+      },
+      "obeds": {
+        "TBC": 1890,
+        "ICU": 125,
+        "CPAP": 438,
+        "wards": 101,
+        "tnp": 664
+      },
+      "abeds": 126,
+      "phone": 9876543210,
+      "type": "government"
+    },
+    {
+      "name": "Fever Hospital",
+      "area": "  Nallakunta, Hyderabad",
+      "location": {
+        "lat": 17.395949,
+        "lng": 78.502404
+      },
+      "obeds": {
+        "TBC": 1890,
+        "ICU": 125,
+        "CPAP": 438,
+        "wards": 101,
+        "tnp": 664
+      },
+      "abeds": 1226,
+      "phone": 9876543210,
+      "type": "government"
+    },
+    {
+      "name": "MGM Hospital",
+      "area": "  Warangal",
+      "location": {
+        "lat": 17.990704,
+        "lng": 79.593533
+      },
+      "obeds": {
+        "TBC": 1890,
+        "ICU": 125,
+        "CPAP": 438,
+        "wards": 101,
+        "tnp": 664
+      },
+      "abeds": 1226,
+      "phone": 9876543210,
+      "type": "government"
+    },
+    {
+      "name": "RIMS",
+      "area": " Adilabad",
+      "location": {
+        "lat": 19.664026,
+        "lng": 78.525051
+      },
+      "obeds": {
+        "TBC": 1890,
+        "ICU": 125,
+        "CPAP": 438,
+        "wards": 101,
+        "tnp": 664
+      },
+      "abeds": 1226,
+      "phone": 9876543210,
+      "type": "government"
+    },
+    {
+      "name": "District Hospital",
+      "area": "  Khammam",
+      "location": {
+        "lat": 17.249334,
+        "lng": 80.151994
+      },
+      "obeds": {
+        "TBC": 1890,
+        "ICU": 125,
+        "CPAP": 438,
+        "wards": 101,
+        "tnp": 664
+      },
+      "abeds": 1226,
+      "phone": 9876543210,
+      "type": "government"
+    },
+    {
+      "name": "District Hospital",
+      "area": "  Karimnagar",
+      "location": {
+        "lat": 18.442307,
+        "lng": 79.131724
+      },
+      "obeds": {
+        "TBC": 1890,
+        "ICU": 125,
+        "CPAP": 438,
+        "wards": 101,
+        "tnp": 664
+      },
+      "abeds": 1226,
+      "phone": 9876543210,
+      "type": "government"
+    },
+    {
+      "name": "Government General Hospital",
+      "area": " Nizamabad",
+      "location": {
+        "lat": 18.675645,
+        "lng": 78.099036
+      },
+      "obeds": {
+        "TBC": 1890,
+        "ICU": 125,
+        "CPAP": 438,
+        "wards": 101,
+        "tnp": 664
+      },
+      "abeds": 1226,
+      "phone": 9876543210,
+      "type": "government"
+    },
+    {
+      "name": "Government General Hospital",
+      "area": "  Nalgonda",
+      "location": {
+        "lat": 17.055856,
+        "lng": 79.277845
+      },
+      "obeds": {
+        "TBC": 1890,
+        "ICU": 125,
+        "CPAP": 438,
+        "wards": 101,
+        "tnp": 664
+      },
+      "abeds": 1226,
+      "phone": 9876543210,
+      "type": "government"
+    },
+    {
+      "name": "Government General Hospital",
+      "area": "  Suryapet",
+      "location": {
+        "lat": 17.141725,
+        "lng": 79.606962
+      },
+      "obeds": {
+        "TBC": 1890,
+        "ICU": 125,
+        "CPAP": 438,
+        "wards": 101,
+        "tnp": 664
+      },
+      "abeds": 1226,
+      "phone": 9876543210,
+      "type": "government"
+    },
+    {
+      "name": "Government General Hospital",
+      "area": "  Siddipet",
+      "location": {
+        "lat": 18.098793,
+        "lng": 78.841362
+      },
+      "obeds": {
+        "TBC": 1890,
+        "ICU": 125,
+        "CPAP": 438,
+        "wards": 101,
+        "tnp": 664
+      },
+      "abeds": 1226,
+      "phone": 9876543210,
+      "type": "government"
+    },
+    {
+      "name": "Government General Hospital",
+      "area": " Mahbubnagar",
+      "location": {
+        "lat": 16.750588,
+        "lng": 78.008452
+      },
+      "obeds": {
+        "TBC": 1890,
+        "ICU": 125,
+        "CPAP": 438,
+        "wards": 101,
+        "tnp": 664
+      },
+      "abeds": 1226,
+      "phone": 9876543210,
+      "type": "government"
+    },
+    {
+      "name": "Care Hospitals",
+      "area": " Banjara Hills, Hyderabad",
+      "location": {
+        "lat": 17.412563,
+        "lng": 78.450219
+      },
+      "obeds": {
+        "TBC": 1890,
+        "ICU": 125,
+        "CPAP": 438,
+        "wards": 101,
+        "tnp": 664
+      },
+      "abeds": 1226,
+      "phone": 9876543210,
+      "type": "private"
+    },
+    {
+      "name": "Care Hospitals",
+      "area": " Hitech City, Hyderabad",
+      "location": {
+        "lat": 17.430563,
+        "lng": 78.372088
+      },
+      "obeds": {
+        "TBC": 1890,
+        "ICU": 125,
+        "CPAP": 438,
+        "wards": 101,
+        "tnp": 664
+      },
+      "abeds": 126,
+      "phone": 9876543210,
+      "type": "private"
+    },
+    {
+      "name": "Care Hospitals",
+      "area": " Nampally, Hyderabad",
+      "location": {
+        "lat": 17.385309,
+        "lng": 78.474485
+      },
+      "obeds": {
+        "TBC": 1890,
+        "ICU": 125,
+        "CPAP": 438,
+        "wards": 101,
+        "tnp": 664
+      },
+      "abeds": 1226,
+      "phone": 9876543210,
+      "type": "private"
+    },
+    {
+      "name": "Continental Hospital",
+      "area": "  Gachibowli, Hyderabad",
+      "location": {
+        "lat": 17.417363,
+        "lng": 78.339442
+      },
+      "obeds": {
+        "TBC": 1890,
+        "ICU": 125,
+        "CPAP": 438,
+        "wards": 101,
+        "tnp": 664
+      },
+      "abeds": 1226,
+      "phone": 9876543210,
+      "type": "private"
+    },
+    {
+      "name": "Asian Institute of Nephrology & Urology",
+      "area": "  Hyderabad",
+      "location": {
+        "lat": 17.416638,
+        "lng": 78.453546
+      },
+      "obeds": {
+        "TBC": 1890,
+        "ICU": 125,
+        "CPAP": 438,
+        "wards": 101,
+        "tnp": 664
+      },
+      "abeds": 1226,
+      "phone": 9876543210,
+      "type": "private"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "dir": "ltr",
+  "lang": "English",
+  "name": "Covid-19 Telangana",
+  "scope": "/",
+  "display": "fullscreen",
+  "start_url": "/index.html",
+  "short_name": "C19T",
+  "theme_color": "red",
+  "description": "In this Covid-19 pandemic people are facing many difficulties and also has fear about covid .So, we created a covid-19 portal that has all the details of covid hospitals , beds available, contact information ,patient information, booking of covid test apart from this give precautions, area wise covid report.",
+  "orientation": "portrait-primary",
+  "background_color": "black",
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.google.samples.apps.iosched"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/assets/icon-72x72.png",
+      "type": "image/png",
+      "sizes": "72x72",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/assets/icon-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/assets/icon-128x128.png",
+      "type": "image/png",
+      "sizes": "128x128",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/assets/icon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/assets/icon-152x152.png",
+      "type": "image/png",
+      "sizes": "152x152",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/assets/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/assets/icon-384x384.png",
+      "type": "image/png",
+      "sizes": "384x384",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/assets/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable any"
+    }
+  ]
+}
